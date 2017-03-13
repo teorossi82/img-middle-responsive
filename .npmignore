@@ -1,0 +1,14 @@
+node_modules
+bower_components
+dev
+example/assets/video/video_example.mp4
+example/assets/audio/audio_example.mp3
+example
+src
+screen
+\#*
+*~
+.#*
+\#*\#
+*.log
+.DS_Store
