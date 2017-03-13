@@ -3,8 +3,8 @@
 `img-middle-responsive` - Directive to display an image with reactive centered alignment, both vertically and horizontally.
 
 ## Installation
-* Download the latest release: [v0.1.0](https://github.com/GruppoMeta/metaMediaViewer/archive/master.zip)
-* Clone the repository: `git clone https://github.com/GruppoMeta/metaMediaViewer.git`
+* Download the latest release: [v0.1.0](https://github.com/teorossi82/img-middle-responsive/archive/master.zip)
+* Clone the repository: `git clone https://github.com/teorossi82/img-middle-responsive.git`
 * Install with [Bower](http://bower.io): `bower install img-middle-responsive`
 
 
