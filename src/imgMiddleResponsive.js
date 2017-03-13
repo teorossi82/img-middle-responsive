@@ -2,7 +2,7 @@
   'use strict';
 
   angular
-    .module('imgMiddleResponsiveMdl')
+    .module('imgMiddleResponsiveMdl', [])
     .directive('imgMiddleResponsive', imgMiddleResponsive);
 
   /** @ngInject */
