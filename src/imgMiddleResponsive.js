@@ -9,7 +9,7 @@
     function imgMiddleResponsive() {
         var directive = {
             restrict: 'E',
-            templateUrl: 'app/components/imgMiddleResponsive/imgMiddleResponsive.html',
+            templateUrl: 'imgMiddleResponsive.html',
             scope: {
                 imgUrl:"@",
                 defaultUrl:"@",

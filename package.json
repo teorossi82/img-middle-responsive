@@ -1,6 +1,6 @@
 {
   "name": "img-middle-responsive",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "homepage": "https://github.com/teorossi82/img-middle-responsive",
   "description": "Directive to display an image with reactive centered alignment, both vertically and horizontally.",
   "main": "dist/imgMiddleResponsive.js",
