@@ -1,7 +1,7 @@
 {
   "name": "img-middle-responsive",
-  "version": "0.1.0",
-  "homepage": "https://github.com/GruppoMeta/metaMediaViewer",
+  "version": "0.1.2",
+  "homepage": "https://github.com/teorossi82/img-middle-responsive",
   "description": "Directive to display an image with reactive centered alignment, both vertically and horizontally.",
   "main": "dist/imgMiddleResponsive.js",
   "scripts": {
@@ -41,11 +41,11 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/GruppoMeta/metaMediaViewer/LICENSE"
+      "url": "https://github.com/teorossi82/img-middle-responsive/LICENSE"
     }
   ],
   "bugs": {
-    "url": "https://github.com/GruppoMeta/metaMediaViewer/issues"
+    "url": "https://github.com/teorossi82/img-middle-responsive/issues"
   },
-  "homepage": "https://github.com/GruppoMeta/metaMediaViewer#readme"
+  "homepage": "https://github.com/teorossi82/img-middle-responsive#readme"
 }

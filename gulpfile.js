@@ -16,7 +16,7 @@ gulp.task('uglify', function() {
 
 gulp.task('concatJs', function() {
   return gulp.src('./src/*.js')
-    .pipe(concat('img-middle-responsive.js'))
+    .pipe(concat('imgMiddleResponsive.js'))
     .pipe(gulp.dest('./dev/'));
 });
  
